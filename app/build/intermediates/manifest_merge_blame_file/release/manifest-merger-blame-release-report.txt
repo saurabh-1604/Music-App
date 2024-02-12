@@ -1,0 +1,75 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.iven.MusicApp"
+4    android:versionCode="59"
+5    android:versionName="2.4.1.8" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:5:5-80
+11-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:5:22-77
+12    <uses-permission android:name="android.permission.WAKE_LOCK" />
+12-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:6:5-68
+12-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:6:22-65
+13
+14    <application
+14-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:8:5-34:19
+15        android:allowBackup="true"
+15-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:9:9-35
+16        android:icon="@mipmap/ic_launcher"
+16-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:10:9-43
+17        android:label="@string/app_name"
+17-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:11:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:12:9-54
+19        android:supportsRtl="true"
+19-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:13:9-35
+20        android:theme="@style/AppThemeBlue" >
+20-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:14:9-44
+21        <activity
+21-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:15:9-22:20
+22            android:name="com.iven.musicplayergo.MainActivity"
+22-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:16:13-63
+23            android:screenOrientation="portrait" >
+23-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:17:13-49
+24            <intent-filter>
+24-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:18:13-21:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:19:17-69
+25-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:19:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:20:17-77
+27-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:20:27-74
+28            </intent-filter>
+29        </activity>
+30
+31        <service android:name="com.iven.musicplayergo.playback.MusicService" />
+31-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:23:9-80
+31-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:23:18-77
+32
+33        <provider
+33-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:25:9-33:20
+34            android:name="android.support.v4.content.FileProvider"
+34-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:26:13-67
+35            android:authorities="com.iven.musicplayergo.provider"
+35-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:27:13-66
+36            android:exported="false"
+36-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:28:13-37
+37            android:grantUriPermissions="true" >
+37-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:29:13-47
+38            <meta-data
+38-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:30:13-32:54
+39                android:name="android.support.FILE_PROVIDER_PATHS"
+39-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:31:17-67
+40                android:resource="@xml/file_paths" />
+40-->D:\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:32:17-51
+41        </provider>
+42    </application>
+43
+44</manifest>

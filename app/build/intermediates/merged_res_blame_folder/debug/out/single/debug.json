@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.iven.musicplayergo.app-pngs-5:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable_ic_close.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/layout_player_seek.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/layout/player_seek.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable_music_notification.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/drawable/music_notification.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.iven.musicplayergo.app-pngs-5:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/layout_player_info.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/layout/player_info.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.iven.musicplayergo.app-pngs-5:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/layout_main_activity.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/layout/main_activity.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable_ic_skip_next.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/drawable/ic_skip_next.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/layout_song_item.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/layout/song_item.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable_ic_folder.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/drawable/ic_folder.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable_ic_checkbox_marked.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/drawable/ic_checkbox_marked.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable_ic_play_notification.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/drawable/ic_play_notification.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable_ic_equalizer.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/drawable/ic_equalizer.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable_ic_pause.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/layout_color_option.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/layout/color_option.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable_ic_invert_colors.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/drawable/ic_invert_colors.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.iven.musicplayergo.app-pngs-5:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable_ripple.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/drawable/ripple.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.iven.musicplayergo.app-pngs-5:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable_ic_pause_notification.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/drawable/ic_pause_notification.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/xml_file_paths.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/layout_settings_view.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/layout/settings_view.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/layout_sliding_panel.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/layout/sliding_panel.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.iven.musicplayergo.app-pngs-5:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/layout_album_item.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/layout/album_item.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/layout_player_buttons.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/layout/player_buttons.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/layout_artist_details.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/layout/artist_details.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable_ic_checkbox_blank.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/drawable/ic_checkbox_blank.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable_ic_play.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/layout_artist_item.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/layout/artist_item.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable_linkedin_icon.jpg.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/drawable/linkedin_icon.jpg"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable_ic_skip_previous.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/drawable/ic_skip_previous.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.iven.musicplayergo.app-pngs-5:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/layout_controls_panel.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/layout/controls_panel.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable_ic_settings.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable_ic_baseline_share_24.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/drawable/ic_baseline_share_24.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable_ic_skip_previous_notification.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/drawable/ic_skip_previous_notification.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable_ic_repeat.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/drawable/ic_repeat.xml"
+    },
+    {
+        "merged": "com.iven.musicplayergo.app-merged_res-10:/drawable_ic_skip_next_notification.xml.flat",
+        "source": "com.iven.musicplayergo.app-main-12:/drawable/ic_skip_next_notification.xml"
+    }
+]

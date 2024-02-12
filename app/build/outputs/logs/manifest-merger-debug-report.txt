@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\LG\.gradle\caches\transforms-3\061cae982c26f38dbb7aade8274dca5f\transformed\support-v4-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\LG\.gradle\caches\transforms-3\04a8993ae06de3fccb62ec33d57facb8\transformed\recyclerview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.18] C:\Users\LG\.gradle\caches\transforms-3\9540ae41dec252c2309b664fbf503dbc\transformed\recyclerview-fastscroll-1.0.18\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\LG\.gradle\caches\transforms-3\c43fe4c2b6d60ed1bc8d1430be99eb43\transformed\support-media-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\LG\.gradle\caches\transforms-3\0bce24ba482c20968bca9a4068d9c835\transformed\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\LG\.gradle\caches\transforms-3\e0448a2568210bdd8cacc7fa6bdeadc6\transformed\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\LG\.gradle\caches\transforms-3\4bcfb854b3e269c386149a27d14e61c0\transformed\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\LG\.gradle\caches\transforms-3\12f64a4f120236dfa36186aca145e22b\transformed\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\LG\.gradle\caches\transforms-3\63a8b4e01dd3b77b5f13b0d1a8745736\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\LG\.gradle\caches\transforms-3\b820356669a6f4d5cdd1ab8c4d47e753\transformed\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\LG\.gradle\caches\transforms-3\a5c45c9bde8c5d311accfc8dea9f7d73\transformed\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\LG\.gradle\caches\transforms-3\f6ca9f1aa8d11e4c596890af3a150313\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		INJECTED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:6:22-65
+application
+ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:8:5-34:19
+	android:supportsRtl
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:14:9-44
+activity#com.iven.musicplayergo.MainActivity
+ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:15:9-22:20
+	android:screenOrientation
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:16:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:20:27-74
+service#com.iven.musicplayergo.playback.MusicService
+ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:23:9-80
+	android:name
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:23:18-77
+provider#android.support.v4.content.FileProvider
+ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:grantUriPermissions
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:29:13-47
+	android:authorities
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:27:13-66
+	android:exported
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:26:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:30:13-32:54
+	android:resource
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:32:17-51
+	android:name
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml:31:17-67
+uses-sdk
+INJECTED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+INJECTED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\LG\.gradle\caches\transforms-3\061cae982c26f38dbb7aade8274dca5f\transformed\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\LG\.gradle\caches\transforms-3\061cae982c26f38dbb7aade8274dca5f\transformed\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\LG\.gradle\caches\transforms-3\04a8993ae06de3fccb62ec33d57facb8\transformed\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\LG\.gradle\caches\transforms-3\04a8993ae06de3fccb62ec33d57facb8\transformed\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.18] C:\Users\LG\.gradle\caches\transforms-3\9540ae41dec252c2309b664fbf503dbc\transformed\recyclerview-fastscroll-1.0.18\AndroidManifest.xml:7:5-44
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.18] C:\Users\LG\.gradle\caches\transforms-3\9540ae41dec252c2309b664fbf503dbc\transformed\recyclerview-fastscroll-1.0.18\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\LG\.gradle\caches\transforms-3\c43fe4c2b6d60ed1bc8d1430be99eb43\transformed\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\LG\.gradle\caches\transforms-3\c43fe4c2b6d60ed1bc8d1430be99eb43\transformed\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\LG\.gradle\caches\transforms-3\0bce24ba482c20968bca9a4068d9c835\transformed\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\LG\.gradle\caches\transforms-3\0bce24ba482c20968bca9a4068d9c835\transformed\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\LG\.gradle\caches\transforms-3\e0448a2568210bdd8cacc7fa6bdeadc6\transformed\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\LG\.gradle\caches\transforms-3\e0448a2568210bdd8cacc7fa6bdeadc6\transformed\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\LG\.gradle\caches\transforms-3\4bcfb854b3e269c386149a27d14e61c0\transformed\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\LG\.gradle\caches\transforms-3\4bcfb854b3e269c386149a27d14e61c0\transformed\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\LG\.gradle\caches\transforms-3\12f64a4f120236dfa36186aca145e22b\transformed\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\LG\.gradle\caches\transforms-3\12f64a4f120236dfa36186aca145e22b\transformed\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\LG\.gradle\caches\transforms-3\63a8b4e01dd3b77b5f13b0d1a8745736\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\LG\.gradle\caches\transforms-3\63a8b4e01dd3b77b5f13b0d1a8745736\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\LG\.gradle\caches\transforms-3\b820356669a6f4d5cdd1ab8c4d47e753\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\LG\.gradle\caches\transforms-3\b820356669a6f4d5cdd1ab8c4d47e753\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\LG\.gradle\caches\transforms-3\a5c45c9bde8c5d311accfc8dea9f7d73\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\LG\.gradle\caches\transforms-3\a5c45c9bde8c5d311accfc8dea9f7d73\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\LG\.gradle\caches\transforms-3\f6ca9f1aa8d11e4c596890af3a150313\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\LG\.gradle\caches\transforms-3\f6ca9f1aa8d11e4c596890af3a150313\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+INJECTED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		INJECTED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		ADDED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		INJECTED from D:\5th Semester\Project 1\MainMusicApp\Music-Player-GO\project\app\src\main\AndroidManifest.xml
